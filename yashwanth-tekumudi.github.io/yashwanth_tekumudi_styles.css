@@ -124,7 +124,7 @@ body {
             background-size: cover;
             background-position: center;
             display: inline-block;
-            background-image: url('Images/rakesh-emuru-photo.png');
+            background-image: url('Images/yashwanth_tekumudi_img.jpg');
         }
         .typewriter h1 {
             overflow: hidden;
@@ -239,12 +239,12 @@ _-----------------------
         position: relative;
     }
     .value-proposition li::before {
-        content: '✔'; 
+        content: '✔';
         color: green;
         position: relative;
         left: 0;
         top: 0;
-        font-size: 24px; 
+        font-size: 24px;
     }
 
 
@@ -290,12 +290,12 @@ _-----------------------
   color: #007bff; /* Bullet color */
 }
 .value-proposition li::before {
-        content: '✔'; 
+        content: '✔';
         color: green;
         position: relative;
         left: 0;
         top: 0;
-        font-size: 24px; 
+        font-size: 24px;
     }
 
   .about-section {
